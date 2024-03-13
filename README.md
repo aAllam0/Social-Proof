@@ -4,8 +4,8 @@
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: [Front-end Mentor](https://www.frontendmentor.io/solutions/two-backgrounds-using-css-backgroundimage-Yu1YBRTV0O)
+- Live Site URL: (https://aallam0.github.io/Social-Proof)
 
 
 ### Author
