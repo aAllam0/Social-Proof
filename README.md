@@ -1,4 +1,4 @@
-# Frontend Mentor - Page name
+# Frontend Mentor - Social Proof Page
 
 ![](images/social-proof.png)
 
